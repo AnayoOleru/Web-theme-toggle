@@ -1,5 +1,3 @@
-# Web-theme-toggle
-Day 30!
 
 ![version](https://img.shields.io/badge/version-1.2.3-blue) ![codacy](https://img.shields.io/badge/codacy-B-green) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Anayo_Oleru?style=social)
